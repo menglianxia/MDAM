@@ -1,0 +1,2 @@
+This program calculates the correction parameters of DEM by inputting the observed values (GCPs & TPs). For specific operation information, please refer to the program.
+This code belongs to the paper "Building multi-satellite DEM time series for insight into mélange inside large rifts in Antarctica", which is currently under review in the Cryosphere. For more details on parameter Settings, please refer to this paper.
